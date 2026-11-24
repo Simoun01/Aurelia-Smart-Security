@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Smart Security — Showroom Booking & Service Desk",
+  "description": "Showroom demo booking, technical service desk, warranty registry, and field technician operations for smart locks, smart doors, CCTV, and video doorbells.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
